@@ -17,8 +17,6 @@
 
 ![seokcheol](https://user-images.githubusercontent.com/67622889/86088108-a44a6100-bae0-11ea-837a-90bfa7c23430.jpg)
 
-![vinovine](https://user-images.githubusercontent.com/67622889/86088111-a6acbb00-bae0-11ea-9a7d-202264fc4aaf.jpg)
-
 ![20200630](https://user-images.githubusercontent.com/67622889/86088104-a2809d80-bae0-11ea-8c15-d95b89e42328.jpg)
 
 ![2nd](https://user-images.githubusercontent.com/67622889/86092521-94367f80-bae8-11ea-8611-2beceb4153ea.jpg)
