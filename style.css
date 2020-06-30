@@ -3,6 +3,29 @@
   src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/756881/MarvinVisionsTrial-Variable.ttf");
 }
 
+* {margin: 0; padding: 0;}
+section {overflow: hidden; padding: 5%; width: 90%;}
+section > div {width: 10%; margin: 1%; height: 170px;  float: left; border-radius: 5px;}
+
+/* 화면 너비 0 ~ 1200px */
+@media (max-width: 1220px){
+  .wrapper {width: 100%;}
+    section > div {width: 23%;}
+    section > div:nth-child(5n) {display: flex;}
+}
+
+/* 화면 너비 0 ~ 768px */
+@media (max-width: 768px){
+    section > div {width: 31.3333%;}
+    section > div:nth-child(5) {display: flex;}
+}
+
+    /* 화면 너비 0 ~ 480px */
+@media (max-width: 480px){
+    section > div {width: 48%;}
+    section > div:nth-child(5n) {display: flex;}
+}
+
 body, ul, h2, p {
     margin: 0;
     padding: 0;
