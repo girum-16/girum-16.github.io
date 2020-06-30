@@ -11,7 +11,7 @@
 
 ![eunkyung](https://user-images.githubusercontent.com/67622889/86088101-a14f7080-bae0-11ea-9c55-5fdddd7411a0.jpg)
 
-![seongwoo](https://user-images.githubusercontent.com/67622889/86088088-9ac0f900-bae0-11ea-8490-2c122478ea4f.JPG)
+![seongwoo](https://user-images.githubusercontent.com/67622889/86093793-83870900-baea-11ea-9bab-298c10b693de.jpg)
 
 ![youngwoo hyunji](https://user-images.githubusercontent.com/67622889/86088094-9e548000-bae0-11ea-8519-30986b552836.jpg)
 
@@ -21,11 +21,11 @@
 
 ![20200630](https://user-images.githubusercontent.com/67622889/86088104-a2809d80-bae0-11ea-8c15-d95b89e42328.jpg)
 
-![1st](https://user-images.githubusercontent.com/67622889/86092521-94367f80-bae8-11ea-8611-2beceb4153ea.jpg)
-![2nd](https://user-images.githubusercontent.com/67622889/86092542-9993ca00-bae8-11ea-8d82-59a68109c82d.jpg)
+![2nd](https://user-images.githubusercontent.com/67622889/86092521-94367f80-bae8-11ea-8611-2beceb4153ea.jpg)
+![sadangdong](https://user-images.githubusercontent.com/67622889/86094058-f7c1ac80-baea-11ea-8f20-7e3a2104dd63.jpg)
+![2rd](https://user-images.githubusercontent.com/67622889/86092542-9993ca00-bae8-11ea-8d82-59a68109c82d.jpg)
 ![hannamdong](https://user-images.githubusercontent.com/67622889/86092546-9bf62400-bae8-11ea-95bc-5577ef0ef80e.jpg)
 ![vinovine](https://user-images.githubusercontent.com/67622889/86092555-9ef11480-bae8-11ea-88df-23f5c3b063a3.jpg)
-
-![20200630](https://user-images.githubusercontent.com/67622889/86088104-a2809d80-bae0-11ea-8c15-d95b89e42328.jpg)
+![5th](https://user-images.githubusercontent.com/67622889/86088104-a2809d80-bae0-11ea-8c15-d95b89e42328.jpg)
 
 
